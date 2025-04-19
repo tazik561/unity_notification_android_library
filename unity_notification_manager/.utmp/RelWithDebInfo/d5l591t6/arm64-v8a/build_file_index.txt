@@ -1,0 +1,2 @@
+/Users/altmac/Projects/unity/unity_notification_manager/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/altmac/Projects/unity/unity_notification_manager/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

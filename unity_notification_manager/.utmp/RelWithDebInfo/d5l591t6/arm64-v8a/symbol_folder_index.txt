@@ -1,0 +1,1 @@
+/Users/altmac/Projects/unity/unity_notification_manager/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/d5l591t6/obj/arm64-v8a
